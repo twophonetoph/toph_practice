@@ -16,7 +16,7 @@ struct ContentView: View {
             }
             .padding(25)
             
-            Text("Hello, world NEW!")
+            Text("Hello, world NEW! second try!")
                 .padding()
             
             LinearGradient(gradient: /*@START_MENU_TOKEN@*/Gradient(colors: [Color.red, Color.blue])/*@END_MENU_TOKEN@*/, startPoint: /*@START_MENU_TOKEN@*/.leading/*@END_MENU_TOKEN@*/, endPoint: /*@START_MENU_TOKEN@*/.trailing/*@END_MENU_TOKEN@*/)
